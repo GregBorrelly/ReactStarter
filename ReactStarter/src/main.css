@@ -1,0 +1,13 @@
+body{
+
+    background: #444;
+}
+
+h1{
+    color: white;
+    font-size: 60px;
+    text-transform: capitalize;
+    text-shadow: black 0 0 20px;
+    text-align: center;
+
+}
